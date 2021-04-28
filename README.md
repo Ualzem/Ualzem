@@ -4,7 +4,8 @@ My name is Ualzem Campos, i'm from Brazil. I have a degree  in Information Syste
 
 
 ### 👨‍💻 "Quanto mais eu sei, mais eu sou" 👨‍💻
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/papodedev/)
+
+
 - 👉 From MG living in Pitangui.
 - 👫 Married to Alessandra.
 - 🧍‍♀️ Father of Luísa.
