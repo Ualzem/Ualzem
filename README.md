@@ -4,11 +4,11 @@ My name is Ualzem Campos, i'm from Brazil. I have a degree  in Information Syste
 
 
 ### 👨‍💻 "Quanto mais eu sei, mais eu sou" 👨‍💻
-
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/papodedev/)
 - 👉 From MG living in Pitangui.
 - 👫 Married to Alessandra.
 - 🧍‍♀️ Father of Luísa.
 
 
 ### Reach me out 👇
-[![Linkedin Badge](https://img.shields.io/badge/-Ualzem%20Campos-0074b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/ualzem-campos/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ualzem%20Campos-0074b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/ualzem-campos/)[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/ualzem/)](https://www.instagram.com/ualzem/)
