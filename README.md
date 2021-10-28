@@ -4,6 +4,23 @@ My name is Ualzem Campos, i'm from Brazil. I have a degree  in Information Syste
 
 
 ### 👨‍💻 "Quanto mais eu sei, mais eu sou" 👨‍💻
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ualzem&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ualzem&layout=compact&langs_count=16&theme=dracula)<br>
+<div style="display: inline_block"><br>
+  <img align="center" alt="ualzem-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+   <img align="center" alt="ualzem-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img align="center" alt="ualzem-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img align="center" alt="ualzem-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="ualzem-wordpress" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+  </div>
+ 
+ ##
+ 
+
+
+
+
+
 
 
 - 👉 From MG living in Pitangui.
