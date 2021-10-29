@@ -16,10 +16,11 @@ My name is Ualzem Campos, i'm from Brazil. I have a degree  in Information Syste
  
  ##
  
-
+<div>
 
 ![Snake animation](https://github.com/ualzem/ualzem/blob/output/github-contribution-grid-snake.svg)
-
+  
+  </div>
 
 
 
