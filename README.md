@@ -1,6 +1,6 @@
 # Hey 👋
 
-My name is Ualzem Campos, i'm from Brazil. I have a degree  in Information Systems since December 2019 👨🏻‍🎓. I am looking for an opportunity to work with development. I always like to be learning new things. I am very easy to learn and to work in a team. Because I live in a small town, which does not have much opportunity in my area of ​​expertise, it is that I am looking for jobs in the home office mode.
+My name is Ualzem Campos, i'm from Brazil. I have a degree  in Information Systems since December 2019 👨🏻‍🎓. I work with web development focused on HTML, CSS, JAVASCRIPT, PHP, LARAVEL and WORDPRESS. I always like to be learning new things. I am very easy to learn and to work in a team. Because I live in a small town, which does not have much opportunity in my area of ​​expertise, it is that I am looking for jobs in the home office mode.
 
 
 ### 👨‍💻 "Quanto mais eu sei, mais eu sou" 👨‍💻
