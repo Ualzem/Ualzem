@@ -16,11 +16,11 @@ My name is Ualzem Campos, i'm from Brazil. I have a degree  in Information Syste
  
  ##
  
-<div>
 
-![Snake animation](https://github.com/ualzem/ualzem/blob/output/github-contribution-grid-snake.svg)
+
+
   
-  </div>
+  
 
 
 
@@ -31,3 +31,7 @@ My name is Ualzem Campos, i'm from Brazil. I have a degree  in Information Syste
 
 ### Reach me out 👇
 [![Linkedin Badge](https://img.shields.io/badge/-Ualzem%20Campos-0074b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/ualzem-campos/)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/ualzem/)](https://www.instagram.com/ualzem/)
+
+
+
+![Snake animation](https://github.com/ualzem/ualzem/blob/output/github-contribution-grid-snake.svg)
